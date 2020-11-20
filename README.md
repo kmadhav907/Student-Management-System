@@ -49,12 +49,12 @@ $  source venv/bin/activate
 
 **3. Clone this project**
 ```
-$  git clone https://github.com/kmadhav907/student-management-system.git
+$git clone https://github.com/kmadhav907/Student-Management-System.git
 ```
 
 Then, Enter the project
 ```
-$  cd student-management-system
+$  cd Student-Management-System.git
 ```
 
 **4. Install Requirements from 'requirements.txt'**

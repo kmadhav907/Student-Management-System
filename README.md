@@ -47,15 +47,14 @@ For Mac
 $  source venv/bin/activate
 ```
 
-**3. Clone this project**
+
+Clone the repository
 ```
-$  git clone https://github.com/vijaythapa333/django-student-management-system.git
+$git clone https://github.com/kmadhav907/Student-Management-System.git
 ```
 
-Then, Enter the project
-```
-$  cd django-student-management-system
-```
+
+
 
 **4. Install Requirements from 'requirements.txt'**
 ```python
